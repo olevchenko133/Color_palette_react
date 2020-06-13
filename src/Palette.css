@@ -1,0 +1,21 @@
+
+.Palette-colors{
+    height: 100%;
+}
+
+.Palette{
+    height: 90vh;
+}
+.Palette-footer{
+    background-color: whitesmoke;
+    height: 5vh;
+    align-items: center;
+    display: flex;
+    padding: 0 1rem ;
+    font-weight: 600;
+    justify-content: flex-end;
+}
+.emoji{
+    font-size: 1.5rem;
+    margin: auto 1rem;
+}
